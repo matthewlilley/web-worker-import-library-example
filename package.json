@@ -1,0 +1,14 @@
+{
+  "name": "web-worker-import-library-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "devDependencies": {
+    "date-fns": "^2.18.0",
+    "parcel": "next"
+  }
+}
